@@ -1,6 +1,6 @@
 # The-AI-in-Texas-Hold-em-unlimited-Texas-Hold-em-1-vs.-9--new  德州AI源码，德州AI代码，德州AI模型
 
-德州扑克人工智能AI，1对1的德州AI，可以战胜高级职业牌手，全套AI源代码和AI训练模型；Telegram联系：@alibabama401
+德州扑克人工智能AI，1对1的德州AI，可以战胜高级职业牌手，全套AI源代码和AI训练模型；Telegram联系：@xuzongbin001
 
 
 <img width="675" alt="微信图片_20241203165109" src="https://github.com/user-attachments/assets/b2ea9024-e134-4d6d-a0a6-7cb7ca00afe9" />
